@@ -1,0 +1,14 @@
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\bin\Debug\net6.0\TestTreebu.exe
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\bin\Debug\net6.0\TestTreebu.deps.json
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\bin\Debug\net6.0\TestTreebu.runtimeconfig.json
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\bin\Debug\net6.0\TestTreebu.dll
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\bin\Debug\net6.0\TestTreebu.pdb
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\obj\Debug\net6.0\TestTreebu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\obj\Debug\net6.0\TestTreebu.AssemblyInfoInputs.cache
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\obj\Debug\net6.0\TestTreebu.AssemblyInfo.cs
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\obj\Debug\net6.0\TestTreebu.csproj.CoreCompileInputs.cache
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\obj\Debug\net6.0\TestTreebu.dll
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\obj\Debug\net6.0\refint\TestTreebu.dll
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\obj\Debug\net6.0\TestTreebu.pdb
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\obj\Debug\net6.0\TestTreebu.genruntimeconfig.cache
+C:\Projects\Develop\C#\testTreebu\Ejercicio 2\TestTreebu\TestTreebu\obj\Debug\net6.0\ref\TestTreebu.dll
